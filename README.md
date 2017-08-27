@@ -1,2 +1,2 @@
 # HelloWorldTestSystem
-TestGit's Function
+TestGit's Functions
