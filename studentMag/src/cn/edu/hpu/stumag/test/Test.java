@@ -20,7 +20,7 @@ public class Test {
 		Connection conn = DBOperator.getConnection();
 		if(conn != null)
 		{
-			System.out.println("Connection Success.");
+			System.out.println("DateBase Connection Success.");
 		}
 		
 		
